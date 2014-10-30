@@ -19,7 +19,7 @@
     "formatter",
     "moment"
   ],
-  "author": "Noah H. Smith",
+  "author": "Noah H. Smith <noah@billysbilling.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/billysbilling/iso-moment/issues"
