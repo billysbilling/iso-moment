@@ -1,0 +1,13 @@
+{
+	"asi": true,
+	"eqnull": true,
+	"undef": true,
+	"node": true,
+	"predef": [
+		"after",
+		"before",
+		"describe",
+		"it",
+		"xit"
+	]
+}
